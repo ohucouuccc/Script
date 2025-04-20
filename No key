@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ohucouuccc/lunar_obf_Tab/refs/heads/main/obf_lunar_Tablua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ohucouuccc/lunar-client-hub-hackerios/refs/heads/main/lunar_hub.lua."))()
